@@ -47,4 +47,8 @@ git push
 
 This command will push all commits up to the remote repository online, in this case GitHub.
 
+git pull
+
+This command is the opposite to git push. It will pull any changes to the remote repo and overwrite them on the local repo.
+
 Niall Harrington, 29/1/2022
