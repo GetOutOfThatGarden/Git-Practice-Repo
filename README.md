@@ -47,4 +47,12 @@ git push
 
 This command will push all commits up to the remote repository online, in this case GitHub.
 
+git switch <branch name>
+
+This command switches the branch to the one you specify. If you enter 'git switch -', it will return you to the main branch.
+
+git checkout
+
+This command can be used as an alternative to 'git switch'. It also has some other features that I haven't used yet.
+
 Niall Harrington, 29/1/2022
